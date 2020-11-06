@@ -1,5 +1,5 @@
-Nom :
-Prenom :
-Age :
-Etude :
-Jeu video préféré :
+Nom : Boukhari 
+Prenom : Arthur
+Age : 18 
+Etude : switch it 
+Jeu video préféré : league of legend
